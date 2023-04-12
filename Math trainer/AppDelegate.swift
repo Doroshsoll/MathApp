@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  MathApp
+//  Math trainer
 //
-//  Created by Alexander on 12/4/2566 BE.
+//  Created by Alexander on 3/4/2566 BE.
 //
 
 import UIKit

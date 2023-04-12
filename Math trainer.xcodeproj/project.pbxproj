@@ -7,27 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7FB4C53229E6A75300B4C0DE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB4C53129E6A75300B4C0DE /* AppDelegate.swift */; };
-		7FB4C53429E6A75300B4C0DE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB4C53329E6A75300B4C0DE /* SceneDelegate.swift */; };
-		7FB4C53629E6A75300B4C0DE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB4C53529E6A75300B4C0DE /* ViewController.swift */; };
-		7FB4C53929E6A75300B4C0DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FB4C53729E6A75300B4C0DE /* Main.storyboard */; };
-		7FB4C53B29E6A75500B4C0DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7FB4C53A29E6A75500B4C0DE /* Assets.xcassets */; };
-		7FB4C53E29E6A75500B4C0DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FB4C53C29E6A75500B4C0DE /* LaunchScreen.storyboard */; };
+		7F4CCF5D29DAA289007BE23A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4CCF5C29DAA289007BE23A /* AppDelegate.swift */; };
+		7F4CCF5F29DAA289007BE23A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4CCF5E29DAA289007BE23A /* SceneDelegate.swift */; };
+		7F4CCF6129DAA289007BE23A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4CCF6029DAA289007BE23A /* ViewController.swift */; };
+		7F4CCF6429DAA289007BE23A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F4CCF6229DAA289007BE23A /* Main.storyboard */; };
+		7F4CCF6629DAA28D007BE23A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F4CCF6529DAA28D007BE23A /* Assets.xcassets */; };
+		7F4CCF6929DAA28D007BE23A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F4CCF6729DAA28D007BE23A /* LaunchScreen.storyboard */; };
+		7F4CCF7129DDED8A007BE23A /* TrainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4CCF7029DDED8A007BE23A /* TrainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7FB4C52E29E6A75300B4C0DE /* MathApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MathApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7FB4C53129E6A75300B4C0DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7FB4C53329E6A75300B4C0DE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		7FB4C53529E6A75300B4C0DE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		7FB4C53829E6A75300B4C0DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		7FB4C53A29E6A75500B4C0DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		7FB4C53D29E6A75500B4C0DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7FB4C53F29E6A75500B4C0DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7F4CCF5929DAA289007BE23A /* Math trainer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Math trainer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F4CCF5C29DAA289007BE23A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7F4CCF5E29DAA289007BE23A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		7F4CCF6029DAA289007BE23A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7F4CCF6329DAA289007BE23A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		7F4CCF6529DAA28D007BE23A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7F4CCF6829DAA28D007BE23A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7F4CCF6A29DAA28D007BE23A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7F4CCF7029DDED8A007BE23A /* TrainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7FB4C52B29E6A75300B4C0DE /* Frameworks */ = {
+		7F4CCF5629DAA289007BE23A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +39,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7FB4C52529E6A75300B4C0DE = {
+		7F4CCF5029DAA289007BE23A = {
 			isa = PBXGroup;
 			children = (
-				7FB4C53029E6A75300B4C0DE /* MathApp */,
-				7FB4C52F29E6A75300B4C0DE /* Products */,
+				7F4CCF5B29DAA289007BE23A /* Math trainer */,
+				7F4CCF5A29DAA289007BE23A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		7FB4C52F29E6A75300B4C0DE /* Products */ = {
+		7F4CCF5A29DAA289007BE23A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7FB4C52E29E6A75300B4C0DE /* MathApp.app */,
+				7F4CCF5929DAA289007BE23A /* Math trainer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7FB4C53029E6A75300B4C0DE /* MathApp */ = {
+		7F4CCF5B29DAA289007BE23A /* Math trainer */ = {
 			isa = PBXGroup;
 			children = (
-				7FB4C53129E6A75300B4C0DE /* AppDelegate.swift */,
-				7FB4C53329E6A75300B4C0DE /* SceneDelegate.swift */,
-				7FB4C53529E6A75300B4C0DE /* ViewController.swift */,
-				7FB4C53729E6A75300B4C0DE /* Main.storyboard */,
-				7FB4C53A29E6A75500B4C0DE /* Assets.xcassets */,
-				7FB4C53C29E6A75500B4C0DE /* LaunchScreen.storyboard */,
-				7FB4C53F29E6A75500B4C0DE /* Info.plist */,
+				7F4CCF5C29DAA289007BE23A /* AppDelegate.swift */,
+				7F4CCF5E29DAA289007BE23A /* SceneDelegate.swift */,
+				7F4CCF6029DAA289007BE23A /* ViewController.swift */,
+				7F4CCF7029DDED8A007BE23A /* TrainViewController.swift */,
+				7F4CCF6229DAA289007BE23A /* Main.storyboard */,
+				7F4CCF6529DAA28D007BE23A /* Assets.xcassets */,
+				7F4CCF6729DAA28D007BE23A /* LaunchScreen.storyboard */,
+				7F4CCF6A29DAA28D007BE23A /* Info.plist */,
 			);
-			path = MathApp;
+			path = "Math trainer";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7FB4C52D29E6A75300B4C0DE /* MathApp */ = {
+		7F4CCF5829DAA289007BE23A /* Math trainer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7FB4C54229E6A75500B4C0DE /* Build configuration list for PBXNativeTarget "MathApp" */;
+			buildConfigurationList = 7F4CCF6D29DAA28D007BE23A /* Build configuration list for PBXNativeTarget "Math trainer" */;
 			buildPhases = (
-				7FB4C52A29E6A75300B4C0DE /* Sources */,
-				7FB4C52B29E6A75300B4C0DE /* Frameworks */,
-				7FB4C52C29E6A75300B4C0DE /* Resources */,
+				7F4CCF5529DAA289007BE23A /* Sources */,
+				7F4CCF5629DAA289007BE23A /* Frameworks */,
+				7F4CCF5729DAA289007BE23A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = MathApp;
-			productName = MathApp;
-			productReference = 7FB4C52E29E6A75300B4C0DE /* MathApp.app */;
+			name = "Math trainer";
+			productName = "Math trainer";
+			productReference = 7F4CCF5929DAA289007BE23A /* Math trainer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		7FB4C52629E6A75300B4C0DE /* Project object */ = {
+		7F4CCF5129DAA289007BE23A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1430;
-				LastUpgradeCheck = 1430;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
 				TargetAttributes = {
-					7FB4C52D29E6A75300B4C0DE = {
-						CreatedOnToolsVersion = 14.3;
+					7F4CCF5829DAA289007BE23A = {
+						CreatedOnToolsVersion = 14.2;
 					};
 				};
 			};
-			buildConfigurationList = 7FB4C52929E6A75300B4C0DE /* Build configuration list for PBXProject "MathApp" */;
+			buildConfigurationList = 7F4CCF5429DAA289007BE23A /* Build configuration list for PBXProject "Math trainer" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +113,56 @@
 				en,
 				Base,
 			);
-			mainGroup = 7FB4C52529E6A75300B4C0DE;
-			productRefGroup = 7FB4C52F29E6A75300B4C0DE /* Products */;
+			mainGroup = 7F4CCF5029DAA289007BE23A;
+			productRefGroup = 7F4CCF5A29DAA289007BE23A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7FB4C52D29E6A75300B4C0DE /* MathApp */,
+				7F4CCF5829DAA289007BE23A /* Math trainer */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		7FB4C52C29E6A75300B4C0DE /* Resources */ = {
+		7F4CCF5729DAA289007BE23A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7FB4C53E29E6A75500B4C0DE /* LaunchScreen.storyboard in Resources */,
-				7FB4C53B29E6A75500B4C0DE /* Assets.xcassets in Resources */,
-				7FB4C53929E6A75300B4C0DE /* Main.storyboard in Resources */,
+				7F4CCF6929DAA28D007BE23A /* LaunchScreen.storyboard in Resources */,
+				7F4CCF6629DAA28D007BE23A /* Assets.xcassets in Resources */,
+				7F4CCF6429DAA289007BE23A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		7FB4C52A29E6A75300B4C0DE /* Sources */ = {
+		7F4CCF5529DAA289007BE23A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7FB4C53629E6A75300B4C0DE /* ViewController.swift in Sources */,
-				7FB4C53229E6A75300B4C0DE /* AppDelegate.swift in Sources */,
-				7FB4C53429E6A75300B4C0DE /* SceneDelegate.swift in Sources */,
+				7F4CCF6129DAA289007BE23A /* ViewController.swift in Sources */,
+				7F4CCF7129DDED8A007BE23A /* TrainViewController.swift in Sources */,
+				7F4CCF5D29DAA289007BE23A /* AppDelegate.swift in Sources */,
+				7F4CCF5F29DAA289007BE23A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		7FB4C53729E6A75300B4C0DE /* Main.storyboard */ = {
+		7F4CCF6229DAA289007BE23A /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7FB4C53829E6A75300B4C0DE /* Base */,
+				7F4CCF6329DAA289007BE23A /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		7FB4C53C29E6A75500B4C0DE /* LaunchScreen.storyboard */ = {
+		7F4CCF6729DAA28D007BE23A /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7FB4C53D29E6A75500B4C0DE /* Base */,
+				7F4CCF6829DAA28D007BE23A /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +170,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		7FB4C54029E6A75500B4C0DE /* Debug */ = {
+		7F4CCF6B29DAA28D007BE23A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -216,7 +220,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -226,7 +230,7 @@
 			};
 			name = Debug;
 		};
-		7FB4C54129E6A75500B4C0DE /* Release */ = {
+		7F4CCF6C29DAA28D007BE23A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -270,7 +274,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -280,7 +284,7 @@
 			};
 			name = Release;
 		};
-		7FB4C54329E6A75500B4C0DE /* Debug */ = {
+		7F4CCF6E29DAA28D007BE23A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -289,18 +293,18 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = TV9QQ8449F;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MathApp/Info.plist;
+				INFOPLIST_FILE = "Math trainer/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = my.sasha.soft.MathApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "my.sasha.soft.Math-trainer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -308,7 +312,7 @@
 			};
 			name = Debug;
 		};
-		7FB4C54429E6A75500B4C0DE /* Release */ = {
+		7F4CCF6F29DAA28D007BE23A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -317,18 +321,18 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = TV9QQ8449F;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MathApp/Info.plist;
+				INFOPLIST_FILE = "Math trainer/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = my.sasha.soft.MathApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "my.sasha.soft.Math-trainer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -339,25 +343,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7FB4C52929E6A75300B4C0DE /* Build configuration list for PBXProject "MathApp" */ = {
+		7F4CCF5429DAA289007BE23A /* Build configuration list for PBXProject "Math trainer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7FB4C54029E6A75500B4C0DE /* Debug */,
-				7FB4C54129E6A75500B4C0DE /* Release */,
+				7F4CCF6B29DAA28D007BE23A /* Debug */,
+				7F4CCF6C29DAA28D007BE23A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7FB4C54229E6A75500B4C0DE /* Build configuration list for PBXNativeTarget "MathApp" */ = {
+		7F4CCF6D29DAA28D007BE23A /* Build configuration list for PBXNativeTarget "Math trainer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7FB4C54329E6A75500B4C0DE /* Debug */,
-				7FB4C54429E6A75500B4C0DE /* Release */,
+				7F4CCF6E29DAA28D007BE23A /* Debug */,
+				7F4CCF6F29DAA28D007BE23A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 7FB4C52629E6A75300B4C0DE /* Project object */;
+	rootObject = 7F4CCF5129DAA289007BE23A /* Project object */;
 }
