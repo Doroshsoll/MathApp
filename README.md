@@ -1,2 +1,2 @@
 # MathApp
-App that helps train Math skills.
+App that helps train Math skills
